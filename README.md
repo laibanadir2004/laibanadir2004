@@ -1,11 +1,11 @@
 Hi, I'm Laiba Nadir 👋
 BSc Computer Science student at Brunel University of London, looking for a placement year (2027–28) in software development, data or IT.
-I'm interested in technology that works with real-world data, especially healthcare data. Before university I worked in IT at the Pakistan Institute of Medical Sciences (PIMS), entering and managing patient records. That's where I saw how hospital software stores sensitive health information, and why accuracy and confidentiality matter.
+I enjoy building practical software, working with data and solving problems step by step. I've studied and worked in Pakistan, Australia and the UK, and I'm always looking to learn new tools and work on projects that make a real difference.
 ---
 🔭 What I work on
 💻 Software development: object-oriented Java and Python, clean classes and single-purpose methods, input validation and exception handling
-🗄️ Data & databases: importing CSV data into SQLite, writing SQL queries to retrieve and manage records (A+ in Data and Information)
-🏥 Healthcare IT: hands-on experience with patient-record systems and handling sensitive data confidentially
+🗄️ Data & databases: importing CSV data into SQLite, writing SQL queries to retrieve, analyse and manage records (A+ in Data and Information)
+🖥️ IT experience: entering and managing records in a large organisation's IT system, with a focus on accuracy and confidentiality
 📐 Software design: requirements, algorithm descriptions and flowcharts before writing code
 🤝 Teamwork: Year 1 Group Project and the current Level 5 Group Project
 🌱 Currently learning
@@ -24,10 +24,15 @@ Agile delivery: sprints, stand-ups, retrospectives
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ---
 📂 Featured projects
-Project	What it does	Tech
-Patient Records API	REST API for managing fake hospital patient records, with input validation, ward statistics and 12 automated tests run by CI.	Python, Flask, SQLite, pytest, GitHub Actions
-Swift Bot Dance Support	Java program that controls a Swift Bot robot from QR-code dance instructions. Validates hexadecimal input, converts it to decimal and drives the robot's movement.	Java, OOP, exception handling
-Brexit Tweets Database	Imported a CSV dataset of tweets into SQLite and wrote SQL queries to explore and manage the records.	SQL, SQLite, DB Browser
+🗂️ Records Management API
+REST API to create, view, update and delete records, with input validation, summary statistics and 12 automated tests run by CI.
+Tech: Python · Flask · SQLite · pytest · GitHub Actions
+🤖 Swift Bot Dance Support
+Java program that controls a Swift Bot robot from QR-code dance instructions. Validates hexadecimal input, converts it to decimal and drives the robot's movement.
+Tech: Java · OOP · Exception handling
+📊 Brexit Tweets Database
+Imported a CSV dataset of tweets into SQLite and wrote SQL queries to explore and analyse the records.
+Tech: SQL · SQLite · DB Browser
 ---
 📫 Get in touch
 Email: khanlaibanadir2004@gmail.com
