@@ -1,16 +1,34 @@
-## Hi there 👋
-
-<!--
-**laibanadir2004/laibanadir2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Laiba Nadir 👋
+BSc Computer Science student at Brunel University of London, looking for a placement year (2027–28) in software development, data or IT.
+I'm interested in technology that works with real-world data, especially healthcare data. Before university I worked in IT at the Pakistan Institute of Medical Sciences (PIMS), entering and managing patient records. That's where I saw how hospital software stores sensitive health information, and why accuracy and confidentiality matter.
+---
+🔭 What I work on
+💻 Software development: object-oriented Java and Python, clean classes and single-purpose methods, input validation and exception handling
+🗄️ Data & databases: importing CSV data into SQLite, writing SQL queries to retrieve and manage records (A+ in Data and Information)
+🏥 Healthcare IT: hands-on experience with patient-record systems and handling sensitive data confidentially
+📐 Software design: requirements, algorithm descriptions and flowcharts before writing code
+🤝 Teamwork: Year 1 Group Project and the current Level 5 Group Project
+🌱 Currently learning
+Git and GitHub workflows (branches, pull requests, code review)
+Building REST APIs with Flask
+Automated testing (pytest, JUnit) and CI with GitHub Actions
+Agile delivery: sprints, stand-ups, retrospectives
+---
+🛠️ Tech I use
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+---
+📂 Featured projects
+Project	What it does	Tech
+Patient Records API	REST API for managing fake hospital patient records, with input validation, ward statistics and 12 automated tests run by CI.	Python, Flask, SQLite, pytest, GitHub Actions
+Swift Bot Dance Support	Java program that controls a Swift Bot robot from QR-code dance instructions. Validates hexadecimal input, converts it to decimal and drives the robot's movement.	Java, OOP, exception handling
+Brexit Tweets Database	Imported a CSV dataset of tweets into SQLite and wrote SQL queries to explore and manage the records.	SQL, SQLite, DB Browser
+---
+📫 Get in touch
+Email: khanlaibanadir2004@gmail.com
+Studied and worked across Pakistan 🇵🇰, Australia 🇦🇺 and the UK 🇬🇧
