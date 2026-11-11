@@ -24,20 +24,13 @@ Agile delivery: sprints, stand-ups, retrospectives
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ---
 📂 Featured projects
-🗂️ Records Management API
-REST API to create, view, update and delete records, with input validation, summary statistics and 12 automated tests run by CI.
-Tech: Python · Flask · SQLite · pytest · GitHub Actions
-🤖 Swift Bot Dance Support
-Java program that controls a Swift Bot robot from QR-code dance instructions. Validates hexadecimal input, converts it to decimal and drives the robot's movement.
-Tech: Java · OOP · Exception handling
-📊 Brexit Tweets Database
-Imported a CSV dataset of tweets into SQLite and wrote SQL queries to explore and analyse the records.
-Tech: SQL · SQLite · DB Browser
----
+🗂️ Records Management API: REST API to create, view, update and delete records, with input validation, summary statistics and 12 automated tests run by CI (Python, Flask, SQLite, pytest, GitHub Actions)
+🤖 Swift Bot Dance Support: Java program that controls a Swift Bot robot from QR-code dance instructions, validating hexadecimal input and converting it to decimal to drive the robot (Java, OOP, exception handling)
+📊 Brexit Tweets Database: imported a CSV dataset of tweets into SQLite and wrote SQL queries to explore and analyse the records (SQL, SQLite, DB Browser)
 🌍 Beyond code
-🤲 Running Isehaat, a welfare initiative in Pakistan: organising support for people in need, which has taught me leadership, planning and how to get things done with limited resources
-💼 Balancing part-time work with full-time university study
+🤲 Welfare work: running Isehaat, a welfare initiative in Pakistan, organising support for people in need and building leadership and planning skills
+💼 Work and study: balancing part-time work with full-time university study
 ---
 📫 Get in touch
-Email: khanlaibanadir2004@gmail.com
+📧 Email: khanlaibanadir2004@gmail.com
 Studied and worked across Pakistan 🇵🇰, Australia 🇦🇺 and the UK 🇬🇧
