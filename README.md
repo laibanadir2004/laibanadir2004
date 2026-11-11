@@ -38,7 +38,7 @@ I enjoy building practical software, working with data and solving problems step
 ### 📂 Featured projects
 
 - 🗂️ **[Records Management API](https://github.com/laibanadir2004/patient-records-api):** REST API to create, view, update and delete records, with input validation, summary statistics and 12 automated tests run by CI *(Python, Flask, SQLite, pytest, GitHub Actions)*
-- 🤖 **[Swift Bot Dance Support](https://github.com/laibanadir2004/swiftbot-dance):** Java program that controls a Swift Bot robot from QR-code dance instructions, validating hexadecimal input and converting it to decimal to drive the robot *(Java, OOP, exception handling)*
+- 🤖 **[Swift-Bot Dance. ](https://github.com/laibanadir2004/swiftbot-dance):** Java program that controls a Swift Bot robot from QR-code dance instructions, validating hexadecimal input and converting it to decimal to drive the robot *(Java, OOP, exception handling)*
 - 📊 **[Brexit Tweets Database](https://github.com/laibanadir2004/brexit-tweets-sql):** imported a CSV dataset of tweets into SQLite and wrote SQL queries to explore and analyse the records *(SQL, SQLite, DB Browser)*
 
 ### 🌍 Beyond code
