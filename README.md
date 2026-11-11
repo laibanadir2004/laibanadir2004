@@ -34,6 +34,10 @@ Tech: Java · OOP · Exception handling
 Imported a CSV dataset of tweets into SQLite and wrote SQL queries to explore and analyse the records.
 Tech: SQL · SQLite · DB Browser
 ---
+🌍 Beyond code
+🤲 Running Isehaat, a welfare initiative in Pakistan: organising support for people in need, which has taught me leadership, planning and how to get things done with limited resources
+💼 Balancing part-time work with full-time university study
+---
 📫 Get in touch
 Email: khanlaibanadir2004@gmail.com
 Studied and worked across Pakistan 🇵🇰, Australia 🇦🇺 and the UK 🇬🇧
